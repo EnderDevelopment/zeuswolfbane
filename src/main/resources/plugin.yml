@@ -1,0 +1,6 @@
+name: WolfZeus
+version: '${version}'
+main: com.example.wolfzeus.WolfZeusPlugin
+api-version: '1.21.11'
+author: EnderDevelopment
+description: A Zeus-named Wolf weapon destroys target armor and kills in one hit.
